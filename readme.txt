@@ -13,3 +13,4 @@ Greating a new branch is quick & simple.
 Greating a new branch is quick AND simple.
 >>>>>>> featurel
 Greating a new branch is quick and simple.
+Git is a great software distributed under the GPL.
