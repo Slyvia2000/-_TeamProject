@@ -20,5 +20,5 @@ CREATE TABLE attendance_sheet(
   out_evidence      CHAR(32),
   attendance_afirm  BOOLEAN
 );
-/*创建 考勤表 attendance_sheet */
+/*创建 考勤表 attendance_sheet */ 
 
