@@ -19,6 +19,6 @@ CREATE TABLE attendance_sheet(
   is_out            BOOLEAN,
   out_evidence      CHAR(32),
   attendance_afirm  BOOLEAN
-); 
+);  
 /*创建 考勤表 attendance_sheet */ 
 
